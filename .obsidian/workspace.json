@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "585b9c468bab4232",
+    "type": "split",
+    "children": [
+      {
+        "id": "007e2b5c884e07d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbef98e88e02a31e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023年6月刷题报告.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "201f4d64b11e2028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023年5月刷题报告.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0817ad722a86b11c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023年6月刷题报告.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "286d24127d0fd62f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023年6月刷题报告.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "919d663659fa47b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3c0b0b2f580f54b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ec124c380abdb20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4cd5aa46b3744924",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b01834e8507181b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "153c613b67b052ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69d8b44dd51e3511",
+    "type": "split",
+    "children": [
+      {
+        "id": "d67f5e8b0b6fc028",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a278916f640bd1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023年6月刷题报告.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4674a6e592996a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023年6月刷题报告.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ec8fd4e2086469a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "70825e0d3988f8e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023年6月刷题报告.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "286d24127d0fd62f",
+  "lastOpenFiles": [
+    "CMU硕士讲解经典101道.md",
+    "2023年6月刷题报告.md",
+    "未命名",
+    "CMU硕士讲解经典101道.pdf",
+    "cookbook.pdf",
+    "2023年5月刷题报告.md",
+    "2023年4月刷题报告.md",
+    "2023年6月刷题报告",
+    "2022年11月刷题报告.md",
+    "刷题笔记引言.md",
+    "README.md",
+    "logo-dark-cn.4c5e285b.svg",
+    "2022年9月刷题报告.md"
+  ]
+}
