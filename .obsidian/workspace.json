@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d55c06098ecf8a6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMU硕士讲解经典101道.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -192,8 +204,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5b851c8c94fcd8c1",
+  "active": "d55c06098ecf8a6f",
   "lastOpenFiles": [
+    "picture/763.png",
     "picture/452.png",
     "2023年6月刷题报告.md",
     "picture/605.png",
