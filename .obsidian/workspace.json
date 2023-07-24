@@ -191,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,6 +205,8 @@
   },
   "active": "d55c06098ecf8a6f",
   "lastOpenFiles": [
+    "picture/340.png",
+    "picture/Pasted image 20230724112830.png",
     "picture/524.png",
     "picture/680.png",
     "picture/633.png",
@@ -218,8 +219,6 @@
     "picture/88.png",
     "picture/167.png",
     "2023年6月刷题报告.md",
-    "picture/406.png",
-    "picture/122.png",
     "cookbook.pdf",
     "刷题笔记引言.md",
     "picture",
